@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "movie-info-services": "https://github.com/oukirche/movie-info-service.git",
+    "movie-catalog-services": "https://github.com/oukirche/movie-catalog-service.git",
+    "discovery-server": "https://github.com/oukirche/discovery-server.git",
+    "rating-data-service": "https://github.com/oukirche/rating-data-service.git"
+  }
+}
